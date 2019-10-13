@@ -1,4 +1,4 @@
-// Á´±í¶þ²æÊ÷.cpp : Defines the entry point for the console application.
+//cpp : Defines the entry point for the console application.
 #include "stdafx.h"
 #include <iostream>
 #include <queue>
